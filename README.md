@@ -8,3 +8,4 @@ MIDAS Learning Group
 
 ## Week 2
 1. Support Vector Machines (Read: svm.ipynb)
+2. XGBoost (Read: xgbClassifier.ipynb)
